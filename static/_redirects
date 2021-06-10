@@ -1,4 +1,4 @@
 # http and https need separate rules if you don’t force_ssl!
-https://cuteanimalplanet.netlify.app/* https://www.cuteanimalplanet.com/:splat 301!
-https://cuteanimalplanet.netlify.app/* http://cuteanimalplanet.com/:splat 301!
-https://cuteanimalplanet.netlify.app/* www.cuteanimalplanet.com/:splat 301!
+https://hungry-northcutt-92123e.netlify.app/* https://www.web.amanuntul.ro/:splat 301!
+https://hungry-northcutt-92123e.netlify.app/* http://web.amanuntul.ro/:splat 301!
+https://hungry-northcutt-92123e.netlify.app/* www.web.amanuntul.ro/:splat 301!
